@@ -1,4 +1,4 @@
-# Privacy-Preserving Video Anomaly Detection (PEViD)
+# Privacy-Preserving Video Anomaly Detection 
 
 A framework for balancing privacy preservation and utility in video anomaly detection through adaptive redaction and deep learning models.
 
