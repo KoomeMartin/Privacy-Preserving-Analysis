@@ -1,0 +1,9 @@
+# Intel RealSense — install librealsense2 from Intel, then:
+pyrealsense2
+
+# Vision / YOLO
+numpy
+opencv-python          # opencv-python-headless if no GUI
+ultralytics
+torch
+torchvision
